@@ -1,0 +1,13 @@
+{
+  "token": "ODkzMTc3NTExNTc0NDA1MTgx.YVXqYQ.8XrFk-hLzxrtqM9_zsae9WVzWAg",
+  "prefix": ">",
+  "activity_type": "watching",
+  "activity_name": "anonet uptime",
+  "disable_help": false,
+  "hide_ips": false,
+  "notification_channel": 893178255190941757,
+  "retries": 0,
+  "role_to_mention": 893178170323390474,
+  "secs_between_ping": 30,
+  "timeout": 5
+}
